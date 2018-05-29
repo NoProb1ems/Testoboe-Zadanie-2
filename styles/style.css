@@ -31,7 +31,7 @@ body ul {
 }
 .wrapper {
   position: relative;
-  background-image: url("../images/1.png");
+  background-image: url("../images/bg1.png");
   background-position: center;
   background-size: cover;
   height: 670px;
@@ -43,7 +43,7 @@ body ul {
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../images/2.png");
+  background-image: url("../images/fon2.png");
   background-position: center;
   background-size: cover;
 }
@@ -164,7 +164,7 @@ body ul {
 }
 .watchStory {
   position: relative;
-  background-image: url("../images/4.png");
+  background-image: url("../images/bg4.png");
   background-position: center;
   background-size: cover;
   height: 550px;
@@ -176,7 +176,7 @@ body ul {
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../images/5.png");
+  background-image: url("../images/fon5.png");
   background-position: center;
   background-size: cover;
 }
@@ -246,7 +246,7 @@ body ul {
 }
 .team {
   position: relative;
-  background-image: url("../images/8.png");
+  background-image: url("../images/bg8.png");
   background-position: center;
   background-size: cover;
   z-index: 1;
@@ -260,7 +260,7 @@ body ul {
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../images/7.png");
+  background-image: url("../images/fon7.png");
   background-position: center;
   background-size: cover;
 }
@@ -383,7 +383,7 @@ body ul {
 }
 .testimonials {
   position: relative;
-  background-image: url("../images/12.png");
+  background-image: url("../images/bg12.png");
   background-position: center;
   z-index: 1;
   padding-top: 30px;
@@ -396,7 +396,7 @@ body ul {
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../images/11.png");
+  background-image: url("../images/fon11.png");
   background-position: center;
   background-size: cover;
 }
@@ -491,7 +491,7 @@ body ul {
 }
 footer {
   position: relative;
-  background-image: url("../images/14.png");
+  background-image: url("../images/bg14.png");
   background-position: center;
   background-size: cover;
   z-index: 1;
@@ -503,7 +503,7 @@ footer .fon {
   top: 0;
   width: 100%;
   height: 100%;
-  background-image: url("../images/13.png");
+  background-image: url("../images/fon13.png");
   background-position: center;
   background-size: cover;
 }
