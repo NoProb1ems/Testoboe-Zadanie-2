@@ -1,0 +1,116 @@
+
+@media screen and (min-width: 600px) and (max-width: 840px) {
+	body { font-size: 85%; }
+}
+@media screen and (min-width: 842px) and (max-width: 1199px) {
+	footer .social ul {
+	    margin-bottom: 0;
+	}
+	footer .social ul li {
+	    margin-bottom: 5px;
+	    margin-right: 2px;
+	}
+	footer .social .copyright {
+	    margin-top: 75px;
+	}
+	footer .social ul li a img {
+	    height: 34px;
+	}
+}
+@media screen and (min-width: 815px) and (max-width: 841px) {
+	footer .social ul {
+	    margin-bottom: 0;
+	}
+	footer .social ul li {
+	    margin-bottom: 5px;
+	    margin-right: 2px;
+	}
+	footer .social .copyright {
+	    margin-top: 55px;
+	}
+	footer .social ul li a img {
+	    height: 34px;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 814px) {
+	footer .social ul {
+	    margin-bottom: 0;
+	}
+	footer .social ul li {
+	    margin-bottom: 5px;
+	    margin-right: 2px;
+	}
+	footer .social .copyright {
+	    margin-top: 55px;
+	}
+	footer .social ul li a img {
+	    height: 30px;
+	}
+}
+@media screen and (min-width: 577px) and (max-width: 767px) {
+	body { font-size: 80%; }
+	.wrapper header nav ul li {
+		display: inline-block;
+	    margin-left: 0.6em;
+	}
+	.works .ourWorks div {
+	    width: calc(16.66666667%*2);
+	}
+	.testimonials .text {
+	    text-align: left;
+	}
+	.testimonials ul li {
+	    margin-left: 5px;
+	}
+	footer .left p {
+	    margin-bottom: 10px;
+	}
+	footer .left ul {
+    	margin-top: 0;
+	}
+	footer .social {
+	    margin-top: 40px;
+	    text-align: center;
+	}
+}
+@media screen and (min-width: 100px) and (max-width: 576px) {
+	body { font-size: 75%; }
+	article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    text-align: center;
+	}
+	.wrapper header nav ul {
+		float: none;
+	}
+	.wrapper header nav ul li {
+	    margin-left: 0.6em;
+	}
+	.ourStory h2 {
+		margin-top: 30px;
+	}
+	.ourStory {
+		text-align: center;
+	}
+	.works .ourWorks div {
+	    margin: 0;
+   		padding: 0;
+   	 	width: calc(16.66666667%*2);
+	}
+	.testimonials ul li:first-child {
+  	  margin-right: 5px;
+	}
+	.testimonials ul li {
+	    margin-left: -2px;
+	}
+	.testimonials ul li:last-child {
+   		margin-left: 0px;
+	}
+	.brend h2 {
+		margin-top: 30px;
+	}
+	.brend {
+	    text-align: center;
+	}
+	footer .adress span {
+	    display: block;
+	}
+}

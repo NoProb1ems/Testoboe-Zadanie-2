@@ -1,0 +1,123 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+form {
+	margin-left: 100px;
+	margin-top: 50px;
+}
+form input {
+	width: 50%;
+	padding: 10px;	
+}
+
+form span {
+	padding: 10px 20px;
+	border: 1px solid blue;
+	background-color: blue;
+	color: white;
+	transition: all 1s ease;
+	cursor: pointer;
+	margin-left: 10px;
+}
+form span:hover {
+	background-color: green;
+	border: 1px solid green;
+}
+.diagramma {
+	max-width: 1000000px;
+	display: inline-block;
+	position: relative;
+	margin-top: 250px;
+	margin-left: 50px;
+}
+.diagramma .vert {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 1px;
+	height: 200px;
+	background-color: black;
+}
+.diagramma .hor {
+	height: 1px;
+	/*width: 200px;*/
+	background-color: black;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.diagramma .zero {
+	position: absolute;
+	bottom: 0;
+	left: -10px;
+	border-bottom: 1px solid black;
+}
+.diagramma .five {
+	position: absolute;
+	bottom: 50px;
+	left: -10px;
+	border-bottom: 1px solid black;
+}
+.diagramma .ten {
+	position: absolute;
+	bottom: 100px;
+	left: -20px;
+	border-bottom: 1px solid black;
+}
+.diagramma .fifteen {
+	position: absolute;
+	bottom: 150px;
+	left: -20px;
+	border-bottom: 1px solid black;
+}
+ul {}
+ul li {
+	list-style: none;
+	display: inline-block;
+}
+.colors {
+	position: relative;
+	display: block;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.green {
+	position: absolute;
+	left: 0;
+	bottom: -3px;
+	/*height: 50px;*/
+	width: 30px;
+	/*background-color: green;*/
+	background-image: linear-gradient(to top, #16d337, #6cd822, #9cdd0c, #c5e000, #ebe212);
+}
+.yellow {
+	position: absolute;
+	left: 0;
+	bottom: 47px;
+	/*height: 50px;*/
+	width: 30px;
+	/*background-color: yellow;*/
+	background-image: linear-gradient(to top, #ebe212, #eab200, #e08200, #ce5000, #b50e0e);
+}
+.red {
+	position: absolute;
+	left: 0;
+	bottom: 97px;
+	/*height: 50px;*/
+	width: 30px;
+	/*background-color: red;*/
+	background-image: linear-gradient(to top, #b50e0e, #b50e0e, #b50e0e, #b50e0e, #b50e0e);
+}
+.number {
+	position: absolute;
+	left: 8px;
+	bottom: -25px;
+}
+
+.value {
+	position: absolute;
+	left: 8px;
+
+}

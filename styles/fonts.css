@@ -1,0 +1,53 @@
+@font-face {
+	font-family: "RobotoRegular";
+	src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+@font-face {
+	font-family: "RobotoBold";
+	src: url(../fonts/Roboto/Roboto-Bold.ttf);
+}
+@font-face {
+	font-family: "RobotoMedium";
+	src: url(../fonts/Roboto/Roboto-Medium.ttf);
+}
+@font-face {
+	font-family: "RobotoThin";
+	src: url(../fonts/Roboto/Roboto-Thin.ttf);
+}
+@font-face {
+	font-family: "RobotoLight";
+	src: url(../fonts/Roboto/Roboto-Light.ttf);
+}
+@font-face {
+	font-family: "RobotoBlack";
+	src: url(../fonts/Roboto/Roboto-Black.ttf);
+}
+@font-face {
+	font-family: "HelveticaNeueCyr-Black";
+	src: url(../fonts/helveticaneuecyr-black.otf);
+}
+@font-face {
+	font-family: "PlayfairDisplayBlack";
+	src: url(../fonts/PlayFair/playfairdisplayblack.ttf);
+	src: url(../fonts/PlayFair/playfairdisplayblack.woff);
+	src: url(../fonts/PlayFair/playfairdisplayblack.woff2);
+}
+@font-face {
+	font-family: "PlayfairDisplay";
+	src: url(../fonts/PlayFair/playfairdisplay.ttf);
+	src: url(../fonts/PlayFair/playfairdisplay.woff);
+	src: url(../fonts/PlayFair/playfairdisplay.woff2);
+}
+@font-face {
+	font-family: "PlayfairDisplayBold";
+	src: url(../fonts/PlayFair/playfairdisplaybold.ttf);
+	src: url(../fonts/PlayFair/playfairdisplaybold.woff);
+	src: url(../fonts/PlayFair/playfairdisplaybold.woff2);
+}
+@font-face {
+	font-family: "HammersmithOne";
+	src: url(../fonts/Hammersmith_One/HammersmithOne.ttf);
+}
+
+
+
